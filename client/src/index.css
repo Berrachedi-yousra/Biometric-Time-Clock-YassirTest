@@ -1,0 +1,199 @@
+.list_div {
+    width: 100%;
+    height: 600px;
+}
+
+.header_div {
+    width: 100%;
+    height: 70px;
+    background-color: #F9791C;
+}
+
+.logo_name {
+    font-weight: bold;
+    margin-left: 82%;
+    margin-top: 25px;
+    position: absolute;
+}
+
+.logo_image {
+    width: 3%;
+    height: auto;
+    position: absolute;
+    margin-left: 90%;
+    margin-top: 10px;
+}
+
+.title_list {
+    margin-top: 25px;
+    margin-left: 5%;
+}
+
+.table_header {
+    background-color: #F9791C;
+    width: 90%;
+    height: 40px;
+    color: white;
+    margin-left: 5%;
+}
+
+.table_div_text_header {
+    width: 20%;
+    height: 40px;
+    position: absolute;
+}
+
+.table_text_header {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.table_div {
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+    overflow-y: scroll;
+}
+
+.table_text {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.employee_div {
+    border: 1px solid rgb(132, 132, 132);
+    border-radius: 10;
+    width: 100%;
+    height: 35px;
+}
+
+.filter {
+    background-color: transparent;
+    margin-top: -50px;
+    margin-left: 81%;
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    border: none;
+}
+
+.filter_image {
+    width: 100%;
+    height: 100%;
+}
+
+
+.filter_div_opendate {
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 85%;
+}
+
+.new_employee_button {
+    background-color: #F9791C;
+    color: white;
+    font-weight: bold;
+    width: 10%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 70%;
+    margin-top: -50px;
+    position: absolute;
+}
+
+.new_employee_button:hover {
+    color: #F9791C;
+    background-color: white;
+    transition: 0.5s;
+    border: 1px solid #F9791C;
+}
+
+.school_information {
+    background-color: #F9791C;
+    width: 25%;
+    height: 620px;
+    position: absolute;
+}
+
+.school_information_logo {
+    width: 25%;
+    height: auto;
+    margin-top: 200px;
+    margin-left: 35%;
+}
+
+.school_information_title {
+    margin-left: 32%;
+}
+
+.school_information_text {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.signin_div {
+    width: 73.5%;
+    height: 620px;
+    margin-left: 25%;
+    position: absolute;
+}
+
+.signin_title {
+    margin-top: 150px;
+    margin-left: 35%;
+}
+
+.input {
+    border: 1px solid black;
+    margin-left: 15%;
+    margin-top: 30px;
+    width: 70%;
+    height: 30px;
+    text-align: center;
+}
+
+.input_submit {
+    background-color: #F9791C;
+    margin-left: 15%;
+    margin-top: 30px;
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.input_submit:hover {
+    color: #F9791C;
+    background-color: white;
+    border: 1px solid #F9791C;
+    transition: 0.5s;
+}
+
+.filter_button {
+    background-color: #F9791C;
+    color: white;
+    width: 50px;
+    height: 30px;
+    border: none;
+    position: absolute;
+    margin-left: 85%;
+    margin-top: -50px;
+}
+
+.filter_button:hover {
+    color: #F9791C;
+    background-color: white;
+    border: 1px solid #F9791C;
+    transition: 0.5s;
+}
+
+.orange_text {
+    color: #F9791C;
+    font-weight: bold;
+    margin-left: 50%;
+    margin-top: 50px;
+}
